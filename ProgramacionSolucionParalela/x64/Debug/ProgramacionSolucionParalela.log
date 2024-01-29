@@ -1,0 +1,4 @@
+﻿  ProgramacionSolucionParalela.cpp
+C:\Users\aefig\OneDrive\Escritorio\Tec\06_5to Trimestre\01_CloudComputing\03_Activities\ParallelProgramming\ProgramacionSolucionParalela\ProgramacionSolucionParalela.cpp(28,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\aefig\OneDrive\Escritorio\Tec\06_5to Trimestre\01_CloudComputing\03_Activities\ParallelProgramming\ProgramacionSolucionParalela\ProgramacionSolucionParalela.cpp(29,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ProgramacionSolucionParalela.vcxproj -> C:\Users\aefig\OneDrive\Escritorio\Tec\06_5to Trimestre\01_CloudComputing\03_Activities\ParallelProgramming\ProgramacionSolucionParalela\x64\Debug\ProgramacionSolucionParalela.exe
